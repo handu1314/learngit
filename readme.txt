@@ -8,4 +8,10 @@ create branch dev
 
 create branch feature1
 
-test stash
+test stash!
+
+modify on another compter
+
+this is tom`s modify
+
+my modify
