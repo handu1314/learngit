@@ -10,4 +10,4 @@ create branch feature1
 
 test stash!
 
-another compter
+modify on another compter
