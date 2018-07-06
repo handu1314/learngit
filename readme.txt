@@ -6,4 +6,4 @@ second change
 
 create branch dev
 
-create branch feature1！
+create branch feature1
